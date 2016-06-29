@@ -1,1 +1,2 @@
-# XML-and-JSON-Analyzer
+# XML and JSON Analyzer
+I was given a project in which it was specified that I build various programs designed to handle XML and JSON data structures and properly navigate them. There are two primary features outlined in this project. The first was to have a XML and a XML schema data structure as inputs and for the program to verify if they contained the same information. The second and more vital information was to 
